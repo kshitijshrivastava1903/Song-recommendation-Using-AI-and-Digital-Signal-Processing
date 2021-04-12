@@ -10,6 +10,6 @@
 
 ## This approach to song recommendation can enable users discover new genres of music, as, every song can actually be thought of as a collection of different genres. This method does not rely on data about what other people are listening to, and make user profiles, instead, it directly analyses the song’s signal and recommends similar songs. This can enable new artists’s good music reach people who might find it suiting to their tastes, as these artists might not get the reach, due to less popularity. 
 
-#Screenshots of Final Output :
+# Screenshots of Final Output :
 
 <img src="Screenshot%202021-04-12%20at%201.22.41%20PM.png">
