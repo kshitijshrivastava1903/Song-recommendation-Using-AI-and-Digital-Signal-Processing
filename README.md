@@ -1,5 +1,13 @@
 # Song-Recommendation Using AI-and-Digital-Signal-Processing
 
+# Screenshots of Final Output :
+
+<img src="Screenshot%202021-04-12%20at%201.22.41%20PM.png">
+
+<img src="Screenshot%202021-04-12%20at%201.22.51%20PM.png">
+
+<img src="Screenshot%202021-04-12%20at%201.23.03%20PM.png">
+
 ## Music Audio Digital Signal Processing, Genre Classification and Recommendation
 
 ## This project aims to classify and recommend songs using acoustic features, extracted by digital signal processing methods and convolutional neural networks. Study has been conducted over two steps; determining how features that will be used in recommendation are obtained and developing a service that recommends songs to user requests. Firstly, feature extraction has been carried out by means of digital signal processing methods and then CNN has been trained as an alternative feature extraction. Then acoustic features of songs are used in classification to determine the best neural network architecture, which would give the best genre prediction and hence, best recommendation results. 
@@ -10,10 +18,4 @@
 
 ## This approach to song recommendation can enable users discover new genres of music, as, every song can actually be thought of as a collection of different genres. This method does not rely on data about what other people are listening to, and make user profiles, instead, it directly analyses the song’s signal and recommends similar songs. This can enable new artists’s good music reach people who might find it suiting to their tastes, as these artists might not get the reach, due to less popularity. 
 
-# Screenshots of Final Output :
 
-<img src="Screenshot%202021-04-12%20at%201.22.41%20PM.png">
-
-<img src="Screenshot%202021-04-12%20at%201.22.51%20PM.png">
-
-<img src="Screenshot%202021-04-12%20at%201.23.03%20PM.png">
